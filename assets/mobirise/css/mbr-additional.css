@@ -1347,7 +1347,7 @@ body {
   margin: 0 auto;
 }
 .cid-qYPqm6SOhQ {
-  background-image: url("../../../assets/images/russie-les-deux-rivales-aerien-2000x1500.jpg");
+  background-image: url("../../../assets/images/les-3-merveilles-de-la-baltiques-2000x1357.jpg");
 }
 .cid-qYPqm6SOhQ H1 {
   text-align: center;
@@ -1410,10 +1410,17 @@ body {
 .cid-r13Pqk0jMb {
   padding-top: 90px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1350x1080.jpg");
+  background-image: url("../../../assets/images/mbr-720x1080.jpg");
 }
 .cid-r13Pqk0jMb .mbr-figure {
   margin: 0 auto;
+}
+.cid-r13Pqk0jMb SPAN {
+  color: #000000;
+}
+.cid-r13Pqk0jMb .mbr-text,
+.cid-r13Pqk0jMb .mbr-section-btn {
+  color: #000000;
 }
 .cid-r0I11jwSiq {
   padding-top: 90px;
@@ -1495,7 +1502,7 @@ body {
 .cid-r140NdSK8r {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #b2ccd2;
 }
 .cid-r140NdSK8r .mbr-section-subtitle {
   color: #767676;
